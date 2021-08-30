@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/workspace/dynomite-manager" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/workspace-II/aragorn" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/RandomScripts" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/aragorn" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/core" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/flash-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/monitoring-alerting" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/spray-swagger-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/swagger-spray-sample" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
